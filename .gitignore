@@ -1,0 +1,7 @@
+build/
+
+.env
+ConfigDumpInfo.xml
+build
+out
+.scannerwork
