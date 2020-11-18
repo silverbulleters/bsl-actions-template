@@ -2,7 +2,7 @@
 # Copyright (C) 2020 Tymko Oleg <olegtymko@yandex.ru> and contributors
 # All rights reserved.
 
-name: Подготовка релиза и публикация в хабе
+name: Подготовка CF и публикация в релизе
 # Только события создания и изменения релиза
 on:
     release:
